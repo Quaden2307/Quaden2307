@@ -41,14 +41,14 @@ caden = {
 }
 ```
 
-I'm Caden, a Mathematics student at the University of Waterloo who loves turning messy data into things that actually work. Right now I'm building AI calling agents at ProCogia, forecasting market volatility with graph neural nets at Wat Street, and chasing a sub-10% error on my flight-price predictor. I'm also a member of Jimmy Lin's research group at Waterloo, where I work on information retrieval.
+I'm Caden, a Mathematics student at the University of Waterloo who loves turning messy data into things that actually work. Right now I'm building AI calling agents at ProCogia, forecasting market volatility with graph neural nets at Wat Street, and chasing a sub-10% error on my flight-price predictor. I'm also a member of [Jimmy Lin's](https://cs.uwaterloo.ca/~jimmylin/) research group at Waterloo, where I work on information retrieval.
 
 <details>
   <summary><b>What I'm currently working on</b> (click to expand)</summary>
 
 <br/>
 
-- **Jimmy Lin's Research Group @ Waterloo** - information-retrieval research with the Anserini / Pyserini toolkits.
+- **[Jimmy Lin's Research Group](https://cs.uwaterloo.ca/~jimmylin/) @ Waterloo** - information-retrieval research with the Anserini / Pyserini toolkits.
 - **AI Intern @ ProCogia** - built a LangGraph-orchestrated calling-agent POC (~500 ms faster, a 3x gain over Amazon Connect) plus a RAG pipeline on AWS S3.
 - **ML Engineer @ Wat Street** (Waterloo's Quantitative Finance team) - wiring a Graph Attention Network into an LSTM in PyTorch to forecast volatility for 500 S&P stocks.
 - **Software Developer @ WARG** (past) - shipped client-side mission-export tooling for the IMACS-3.0 ground control station (React + QGC `.waypoints`).
@@ -115,6 +115,20 @@ A model that predicts World Cup match scorelines from historical match data.
 <img src="https://img.shields.io/badge/Pandas-181825?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 
 <a href="https://github.com/Quaden2307/world-cup-score-prediction-model"><img src="https://img.shields.io/badge/Code-cba6f7?style=flat-square&logo=github&logoColor=181825" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+#### <a href="https://github.com/Quaden2307/pyserini">Pyserini</a>
+
+A Python toolkit for reproducible information-retrieval research (sparse + dense retrieval) — one of [Professor Jimmy Lin's](https://cs.uwaterloo.ca/~jimmylin/) repositories, which I work with as part of his research group.
+
+<img src="https://img.shields.io/badge/Python-181825?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Information_Retrieval-181825?style=flat-square" alt="Information Retrieval" />
+
+<a href="https://github.com/Quaden2307/pyserini"><img src="https://img.shields.io/badge/Code-cba6f7?style=flat-square&logo=github&logoColor=181825" alt="Code" /></a>
 
 </td>
 </tr>
