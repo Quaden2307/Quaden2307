@@ -133,6 +133,18 @@ A Python toolkit for reproducible information-retrieval research (sparse + dense
 </td>
 <td width="50%" valign="top">
 
+#### <a href="https://github.com/Quaden2307/personal-website">Personal Website</a>
+
+My personal portfolio — a responsive Next.js / React / TypeScript site styled with Tailwind CSS and deployed on Vercel.
+
+<img src="https://img.shields.io/badge/Next.js-181825?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-181825?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-181825?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-181825?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+<a href="https://github.com/Quaden2307/personal-website"><img src="https://img.shields.io/badge/Code-cba6f7?style=flat-square&logo=github&logoColor=181825" alt="Code" /></a>
+<a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-a6e3a1?style=flat-square&logo=vercel&logoColor=181825" alt="Live Demo" /></a>
+
 </td>
 </tr>
 </table>
