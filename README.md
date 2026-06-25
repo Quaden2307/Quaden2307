@@ -151,12 +151,12 @@ A model that predicts World Cup match scorelines from historical match data.
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Quaden2307&show_icons=true&count_private=true&hide=commits&hide_rank=true&hide_border=true&custom_title=Caden's%20GitHub%20Stats&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" alt="GitHub stats" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quaden2307&layout=compact&langs_count=8&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" alt="Top languages" />
 
-<br/><br/>
+<br/>
 
 <!-- Contribution ring auto-refreshes daily via .github/workflows/contributions.yml -->
 <img alt="GitHub contributions — total all-time and last 30 days" src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/contributions-ring.svg" width="470" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quaden2307&bg_color=1e1e2e&color=cba6f7&line=f5c2e7&point=fab387&area_color=cba6f7&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
 
