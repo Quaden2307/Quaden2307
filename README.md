@@ -183,7 +183,7 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="36" /></a>
 <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" height="36" /></a>
 <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" height="36" /></a>
-<a href="https://www.linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" height="36" /></a>
+<a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" height="36" /></a>
 <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" height="36" /></a>
 <a href="https://www.sqlite.org" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" height="36" /></a>
 <a href="https://jupyter.org" title="Jupyter"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" alt="Jupyter" height="36" /></a>
