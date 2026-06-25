@@ -148,13 +148,16 @@ A model that predicts World Cup match scorelines from historical match data.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quaden2307&show_icons=true&count_private=true&include_all_commits=false&hide_rank=true&hide_border=true&custom_title=Caden's%20GitHub%20Stats&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" alt="GitHub stats - total stars & commits this year" />
-<!-- Current Streak is muted (gray) on purpose so the eye lands on Total Contributions + Longest Streak (mauve). -->
-<img height="180em" src="https://streak-stats.demolab.com?user=Quaden2307&hide_border=true&background=1e1e2e&stroke=313244&sideNums=cba6f7&sideLabels=b4befe&currStreakNum=6c7086&currStreakLabel=6c7086&ring=45475a&fire=6c7086&dates=7f849c" alt="GitHub streak - total contributions & longest streak highlighted" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Quaden2307&show_icons=true&count_private=true&hide=commits&hide_rank=true&hide_border=true&custom_title=Caden's%20GitHub%20Stats&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" alt="GitHub stats" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quaden2307&layout=compact&langs_count=8&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" alt="Top languages" />
 
 <br/><br/>
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quaden2307&layout=compact&langs_count=8&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" alt="Top languages" />
+<!-- Contribution counts below refresh daily via .github/workflows/contributions.yml -->
+<!-- CONTRIB:START -->
+<img alt="Total Contributions" src="https://img.shields.io/badge/Total_Contributions-282-cba6f7?style=for-the-badge&labelColor=181825&logo=github&logoColor=white" />
+<img alt="Last 30 Days" src="https://img.shields.io/badge/Contributions_(Last_30_Days)-91-fab387?style=for-the-badge&labelColor=181825&logo=githubactions&logoColor=white" />
+<!-- CONTRIB:END -->
 
 <br/>
 
