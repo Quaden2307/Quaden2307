@@ -154,24 +154,24 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 ## Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,html,css&theme=dark" alt="languages" height="40" />
-<img src="https://img.shields.io/badge/SQL-313244?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2Y1YzJlNyI%2BPHBhdGggZD0iTTEyLDNDNy41OCwzIDQsNC43OSA0LDdDNCw5LjIxIDcuNTgsMTEgMTIsMTFDMTYuNDIsMTEgMjAsOS4yMSAyMCw3QzIwLDQuNzkgMTYuNDIsMyAxMiwzTTQsOVYxMkM0LDE0LjIxIDcuNTgsMTYgMTIsMTZDMTYuNDIsMTYgMjAsMTQuMjEgMjAsMTJWOUMyMCwxMS4yMSAxNi40MiwxMyAxMiwxM0M3LjU4LDEzIDQsMTEuMjEgNCw5TTQsMTRWMTdDNCwxOS4yMSA3LjU4LDIxIDEyLDIxQzE2LjQyLDIxIDIwLDE5LjIxIDIwLDE3VjE0QzIwLDE2LjIxIDE2LjQyLDE4IDEyLDE4QzcuNTgsMTggNCwxNi4yMSA0LDE0WiIvPjwvc3ZnPgo%3D" alt="SQL" height="40" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,html,css&theme=dark" alt="languages" height="28" />
+<img src="https://img.shields.io/badge/SQL-313244?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2Y1YzJlNyI%2BPHBhdGggZD0iTTEyLDNDNy41OCwzIDQsNC43OSA0LDdDNCw5LjIxIDcuNTgsMTEgMTIsMTFDMTYuNDIsMTEgMjAsOS4yMSAyMCw3QzIwLDQuNzkgMTYuNDIsMyAxMiwzTTQsOVYxMkM0LDE0LjIxIDcuNTgsMTYgMTIsMTZDMTYuNDIsMTYgMjAsMTQuMjEgMjAsMTJWOUMyMCwxMS4yMSAxNi40MiwxMyAxMiwxM0M3LjU4LDEzIDQsMTEuMjEgNCw5TTQsMTRWMTdDNCwxOS4yMSA3LjU4LDIxIDEyLDIxQzE2LjQyLDIxIDIwLDE5LjIxIDIwLDE3VjE0QzIwLDE2LjIxIDE2LjQyLDE4IDEyLDE4QzcuNTgsMTggNCwxNi4yMSA0LDE0WiIvPjwvc3ZnPgo%3D" alt="SQL" height="28" />
 
 **Machine Learning & Data**  
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="ml" height="40" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="40" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="40" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" height="40" />
-<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square&logoColor=white" alt="XGBoost" height="40" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="ml" height="28" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="28" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" height="28" />
+<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logoColor=white" alt="XGBoost" height="28" />
 
 **Frameworks & Backend**  
-<img src="https://skillicons.dev/icons?i=flask,react,nodejs&theme=dark" alt="frameworks" height="40" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" height="40" />
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs&theme=dark" alt="frameworks" height="28" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" height="28" />
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vercel,sqlite&theme=dark" alt="tools" height="40" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="40" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" height="40" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vercel,sqlite&theme=dark" alt="tools" height="28" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" height="28" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" height="28" />
 
 <!-- ===================== STATS ===================== -->
 
