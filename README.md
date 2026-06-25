@@ -153,11 +153,8 @@ A model that predicts World Cup match scorelines from historical match data.
 
 <br/><br/>
 
-<!-- Contribution counts below refresh daily via .github/workflows/contributions.yml -->
-<!-- CONTRIB:START -->
-<img alt="Total Contributions" src="https://img.shields.io/badge/Total_Contributions-282-cba6f7?style=for-the-badge&labelColor=181825&logo=github&logoColor=white" />
-<img alt="Last 30 Days" src="https://img.shields.io/badge/Contributions_(Last_30_Days)-91-fab387?style=for-the-badge&labelColor=181825&logo=githubactions&logoColor=white" />
-<!-- CONTRIB:END -->
+<!-- Contribution ring auto-refreshes daily via .github/workflows/contributions.yml -->
+<img alt="GitHub contributions — total all-time and last 30 days" src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/contributions-ring.svg" width="470" />
 
 <br/>
 

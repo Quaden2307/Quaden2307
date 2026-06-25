@@ -1,8 +1,8 @@
 name: Update Contribution Stats
 
 # Recomputes "Total Contributions" (all time) and "Contributions in the last
-# 30 days" from the public contributions calendar, then writes the numbers into
-# the two badges in README.md (between the CONTRIB:START / CONTRIB:END markers).
+# 30 days" from the public contributions calendar, then renders them into the
+# ring graphic at assets/contributions-ring.svg (which the README displays).
 on:
   schedule:
     - cron: "0 6 * * *"   # daily at 06:00 UTC
@@ -29,29 +29,24 @@ jobs:
             echo "ALL=$ALL" >> "$GITHUB_ENV"
             echo "L30=$L30" >> "$GITHUB_ENV"
           else
-            echo "API returned no valid data; leaving README unchanged."
+            echo "API returned no valid data; leaving the ring unchanged."
           fi
 
-      - name: Inject numbers into README
+      - name: Render contribution ring
         if: env.ALL != ''
         run: |
-          perl -0777 -i -pe '
-            my $r = "<!-- CONTRIB:START -->\n".
-              "<img alt=\"Total Contributions\" src=\"https://img.shields.io/badge/Total_Contributions-$ENV{ALL}-cba6f7?style=for-the-badge&labelColor=181825&logo=github&logoColor=white\" />\n".
-              "<img alt=\"Last 30 Days\" src=\"https://img.shields.io/badge/Contributions_(Last_30_Days)-$ENV{L30}-fab387?style=for-the-badge&labelColor=181825&logo=githubactions&logoColor=white\" />\n".
-              "<!-- CONTRIB:END -->";
-            s{<!-- CONTRIB:START -->.*?<!-- CONTRIB:END -->}{$r}s;
-          ' README.md
+          sed -e "s/__ALL__/${ALL}/g" -e "s/__L30__/${L30}/g" \
+            assets/contributions-ring.template.svg > assets/contributions-ring.svg
 
       - name: Commit & push if changed
         if: env.ALL != ''
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add assets/contributions-ring.svg
           if git diff --cached --quiet; then
             echo "Contribution numbers unchanged."
           else
-            git commit -m "chore: update contribution stats [skip ci]"
+            git commit -m "chore: update contribution ring [skip ci]"
             git push
           fi
