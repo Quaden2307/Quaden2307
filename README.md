@@ -119,16 +119,19 @@ A model that predicts World Cup match scorelines from historical match data.
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
+<td width="50%" valign="top">
 
-#### <a href="https://github.com/Quaden2307/pyserini">Pyserini</a>
+#### <a href="https://github.com/castorini/pyserini">Pyserini</a>
 
-A Python toolkit for reproducible information-retrieval research (sparse + dense retrieval) — one of [Professor Jimmy Lin's](https://cs.uwaterloo.ca/~jimmylin/) repositories, which I work with as part of his research group.
+A Python toolkit for reproducible information-retrieval research (sparse + dense retrieval) — one of [Professor Jimmy Lin's](https://cs.uwaterloo.ca/~jimmylin/) group repositories, which I work with as part of his research group.
 
 <img src="https://img.shields.io/badge/Python-181825?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Information_Retrieval-181825?style=flat-square" alt="Information Retrieval" />
 
-<a href="https://github.com/Quaden2307/pyserini"><img src="https://img.shields.io/badge/Code-cba6f7?style=flat-square&logo=github&logoColor=181825" alt="Code" /></a>
+<a href="https://github.com/castorini/pyserini"><img src="https://img.shields.io/badge/Repository-cba6f7?style=flat-square&logo=github&logoColor=181825" alt="Repository" /></a>
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
