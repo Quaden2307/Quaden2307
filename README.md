@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-cadensun-cba6f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181825" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-cadensun-cba6f7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2BCg%3D%3D&labelColor=181825" alt="LinkedIn" /></a>
 <a href="mailto:cadensun07@gmail.com"><img src="https://img.shields.io/badge/Gmail-cadensun07-f5c2e7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181825" alt="Email" /></a>
 <a href="https://github.com/Quaden2307"><img src="https://img.shields.io/badge/GitHub-Quaden2307-fab387?style=for-the-badge&logo=github&logoColor=white&labelColor=181825" alt="GitHub" /></a>
 <a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-f9e2af?style=for-the-badge&logo=vercel&logoColor=white&labelColor=181825" alt="Portfolio" /></a>
@@ -35,18 +35,20 @@ caden = {
     "school":    "University of Waterloo - B.Math (2025 to 2030)",
     "focus":     ["Machine Learning", "Quant Finance", "AI Agents"],
     "currently": "AI Intern @ ProCogia  ·  ML Engineer @ Wat Street",
+    "research":  "Member of Jimmy Lin's Research Group @ Waterloo",
     "loves":     ["basketball", "squid game", "cats"],
     "motto":     "ZOOWEEMAMA! - Rowley",
 }
 ```
 
-I'm Caden, a Mathematics student at the University of Waterloo who loves turning messy data into things that actually work. Right now I'm building AI calling agents at ProCogia, forecasting market volatility with graph neural nets at Wat Street, and chasing a sub-10% error on my flight-price predictor.
+I'm Caden, a Mathematics student at the University of Waterloo who loves turning messy data into things that actually work. Right now I'm building AI calling agents at ProCogia, forecasting market volatility with graph neural nets at Wat Street, and chasing a sub-10% error on my flight-price predictor. I'm also a member of Jimmy Lin's research group at Waterloo, where I work on information retrieval.
 
 <details>
   <summary><b>What I'm currently working on</b> (click to expand)</summary>
 
 <br/>
 
+- **Jimmy Lin's Research Group @ Waterloo** - information-retrieval research with the Anserini / Pyserini toolkits.
 - **AI Intern @ ProCogia** - built a LangGraph-orchestrated calling-agent POC (~500 ms faster, a 3x gain over Amazon Connect) plus a RAG pipeline on AWS S3.
 - **ML Engineer @ Wat Street** (Waterloo's Quantitative Finance team) - wiring a Graph Attention Network into an LSTM in PyTorch to forecast volatility for 500 S&P stocks.
 - **Software Developer @ WARG** (past) - shipped client-side mission-export tooling for the IMACS-3.0 ground control station (React + QGC `.waypoints`).
@@ -176,7 +178,7 @@ A model that predicts World Cup match scorelines from historical match data.
 
 ### Let's Connect
 
-<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181825" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2BCg%3D%3D&labelColor=181825" alt="LinkedIn" /></a>
 <a href="mailto:cadensun07@gmail.com"><img src="https://img.shields.io/badge/Email-f5c2e7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181825" alt="Email" /></a>
 <a href="https://github.com/Quaden2307"><img src="https://img.shields.io/badge/GitHub-fab387?style=for-the-badge&logo=github&logoColor=white&labelColor=181825" alt="GitHub" /></a>
 
