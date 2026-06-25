@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:f5c2e7,100:fab387&height=200&section=header&text=Caden%20Sun&fontSize=58&fontColor=1e1e2e&fontAlignY=38&desc=Mathematics%20%40%20University%20of%20Waterloo&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Caden Sun" />
 
 <a href="https://github.com/Quaden2307">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=CBA6F7&center=true&vCenter=true&width=620&lines=Mathematics+Student+at+Waterloo;AI+%2F+ML+Engineer;Intramural+Basketball+Captain;Always+building+something+new" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=CBA6F7&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer;Always+building+something+new;Feel+free+to+reach+out" alt="tagline" />
 </a>
 
 <br/>
