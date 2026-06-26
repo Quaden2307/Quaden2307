@@ -171,7 +171,7 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 <a href="https://pandas.pydata.org" title="pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="125" /></a>
 <a href="https://numpy.org" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" width="116" /></a>
 <a href="https://matplotlib.org" title="Matplotlib"><img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/matplotlib-badge.svg?v=1" alt="Matplotlib" height="36" /></a>
-<a href="https://xgboost.readthedocs.io" title="XGBoost"><img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/xgboost-logo.svg?v=5" alt="XGBoost" height="36" /></a>
+<a href="https://xgboost.readthedocs.io" title="XGBoost"><img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOSI%2BPGxpbmUgeDE9IjEyIiB5MT0iNiIgeDI9IjYiIHkyPSIxNSIvPjxsaW5lIHgxPSIxMiIgeTE9IjYiIHgyPSIxOCIgeTI9IjE1Ii8%2BPC9nPjxnIGZpbGw9IiNmZmYiPjxjaXJjbGUgY3g9IjEyIiBjeT0iNSIgcj0iMyIvPjxjaXJjbGUgY3g9IjYiIGN5PSIxNiIgcj0iMyIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iMTYiIHI9IjMiLz48L2c%2BPC9zdmc%2BCg%3D%3D&logoColor=white" alt="XGBoost" width="137" /></a>
 
 **Frameworks & Backend**  
 <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" height="44" /></a>
