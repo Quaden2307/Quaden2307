@@ -168,10 +168,10 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 **Machine Learning & Data**  
 <a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" height="44" /></a>
 <a href="https://scikit-learn.org" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" height="44" /></a>
-<a href="https://pandas.pydata.org" title="pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="153" /></a>
-<a href="https://numpy.org" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" width="142" /></a>
-<a href="https://matplotlib.org" title="Matplotlib"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" width="170" /></a>
-<a href="https://xgboost.readthedocs.io" title="XGBoost"><img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logoColor=white" alt="XGBoost" width="136" /></a>
+<a href="https://pandas.pydata.org" title="pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="125" /></a>
+<a href="https://numpy.org" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" width="116" /></a>
+<a href="https://matplotlib.org" title="Matplotlib"><img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/matplotlib-badge.svg" alt="Matplotlib" height="36" /></a>
+<a href="https://xgboost.readthedocs.io" title="XGBoost"><img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/xgboost-logo.png" alt="XGBoost" height="36" /></a>
 
 **Frameworks & Backend**  
 <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" height="44" /></a>
