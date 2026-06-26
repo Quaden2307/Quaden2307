@@ -153,41 +153,41 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 
 ## Tech Stack
 
-<!-- Tech logos: click any to open its official docs. ~36px, matched heights. -->
+<!-- Tech logos: click any to open its official docs. ~44px, matched heights. -->
 **Languages**  
-<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="36" /></a>
-<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" height="36" /></a>
-<a href="https://docs.oracle.com/en/java/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" height="36" /></a>
-<a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" height="36" /></a>
-<a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="36" /></a>
-<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/tech-sql.svg" alt="SQL" title="SQL" height="36" />
+<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" height="44" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="44" /></a>
+<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" height="44" /></a>
+<a href="https://docs.oracle.com/en/java/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" height="44" /></a>
+<a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" height="44" /></a>
+<a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" height="44" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="44" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="44" /></a>
+<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/tech-sql.svg" alt="SQL" title="SQL" height="44" />
 
 **Machine Learning & Data**  
-<a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" height="36" /></a>
-<a href="https://scikit-learn.org" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" height="36" /></a>
-<a href="https://pandas.pydata.org" title="pandas"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" alt="pandas" height="36" /></a>
-<a href="https://numpy.org" title="NumPy"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" alt="NumPy" height="36" /></a>
-<a href="https://matplotlib.org" title="Matplotlib"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" alt="Matplotlib" height="36" /></a>
-<a href="https://xgboost.readthedocs.io" title="XGBoost"><img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/tech-xgboost.svg" alt="XGBoost" height="36" /></a>
+<a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" height="44" /></a>
+<a href="https://scikit-learn.org" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" height="44" /></a>
+<a href="https://pandas.pydata.org" title="pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="153" /></a>
+<a href="https://numpy.org" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" width="142" /></a>
+<a href="https://matplotlib.org" title="Matplotlib"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" width="170" /></a>
+<a href="https://xgboost.readthedocs.io" title="XGBoost"><img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logoColor=white" alt="XGBoost" width="136" /></a>
 
 **Frameworks & Backend**  
-<a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" height="36" /></a>
-<a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="36" /></a>
-<a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="36" /></a>
-<a href="https://langchain-ai.github.io/langgraph/" title="LangGraph"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" alt="LangGraph" height="36" /></a>
+<a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" height="44" /></a>
+<a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="44" /></a>
+<a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="44" /></a>
+<a href="https://langchain-ai.github.io/langgraph/" title="LangGraph"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" alt="LangGraph" height="44" /></a>
 
 **Tools & Platforms**  
-<a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="36" /></a>
-<a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" height="36" /></a>
-<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" height="36" /></a>
-<a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" height="36" /></a>
-<a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" height="36" /></a>
-<a href="https://www.sqlite.org" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" height="36" /></a>
-<a href="https://jupyter.org" title="Jupyter"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" alt="Jupyter" height="36" /></a>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark" alt="CI/CD (GitHub Actions)" title="CI/CD" height="36" />
+<a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="44" /></a>
+<a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" height="44" /></a>
+<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" height="44" /></a>
+<a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" height="44" /></a>
+<a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" height="44" /></a>
+<a href="https://www.sqlite.org" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" height="44" /></a>
+<a href="https://jupyter.org" title="Jupyter"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" alt="Jupyter" height="44" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark" alt="CI/CD (GitHub Actions)" title="CI/CD" height="44" />
 
 <!-- ===================== STATS ===================== -->
 
