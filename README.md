@@ -205,7 +205,7 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/cba6f7/Quaden2307" width="100%" alt="Contribution calendar" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Quaden2307&bg_color=1e1e2e&color=cba6f7&line=f5c2e7&point=fab387&area_color=cba6f7&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
 
 </div>
 
