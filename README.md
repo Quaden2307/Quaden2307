@@ -195,8 +195,8 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Quaden2307&show_icons=true&count_private=true&hide=commits&hide_rank=true&hide_border=true&custom_title=Caden's%20GitHub%20Stats&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" alt="GitHub stats" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quaden2307&layout=compact&langs_count=8&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" alt="Top languages" />
+<img height="175em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Quaden2307&show_icons=true&count_private=true&hide=commits&hide_rank=true&hide_border=true&custom_title=Caden's%20GitHub%20Stats&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" alt="GitHub stats" />
+<img height="175em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Quaden2307&layout=compact&langs_count=8&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" alt="Top languages" />
 
 <br/>
 
