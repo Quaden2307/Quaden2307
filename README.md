@@ -121,14 +121,15 @@ A model that predicts World Cup match scorelines from historical match data.
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/castorini/pyserini">Pyserini</a>
+#### <a href="https://github.com/castorini/rank_llm">RankLLM</a>
 
-A Python toolkit for reproducible information-retrieval research (sparse + dense retrieval) — one of [Professor Jimmy Lin's](https://cs.uwaterloo.ca/~jimmylin/) group repositories, which I work with as part of his research group.
+A Python package for reranking search results with LLMs (pointwise, pairwise, and listwise rerankers) — one of [Professor Jimmy Lin's](https://cs.uwaterloo.ca/~jimmylin/) group repositories, which I work with as part of his research group.
 
 <img src="https://img.shields.io/badge/Python-181825?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/LLMs-181825?style=flat-square" alt="LLMs" />
 <img src="https://img.shields.io/badge/Information_Retrieval-181825?style=flat-square" alt="Information Retrieval" />
 
-<a href="https://github.com/castorini/pyserini"><img src="https://img.shields.io/badge/Repository-cba6f7?style=flat-square&logo=github&logoColor=181825" alt="Repository" /></a>
+<a href="https://github.com/castorini/rank_llm"><img src="https://img.shields.io/badge/Repository-cba6f7?style=flat-square&logo=github&logoColor=181825" alt="Repository" /></a>
 
 </td>
 <td width="50%" valign="top">
