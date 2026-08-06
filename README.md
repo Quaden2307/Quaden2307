@@ -65,7 +65,7 @@ I'm Caden, a Mathematics student at the University of Waterloo who loves turning
 
 #### <a href="https://github.com/Quaden2307/flight-price-predictor">Flight Price Predictor</a>
 
-End-to-end flight-price prediction across 200+ routes and 55+ airports. A SQLite pipeline ingests ~4k offers/day (180K+ rows) to train an XGBoost model targeting sub-10% error.
+End-to-end flight-price prediction across 200+ routes and 55+ airports. A SQLite pipeline ingests ~4k offers/day (400K+ rows) to train an XGBoost model targeting sub-10% error.
 
 <img src="https://img.shields.io/badge/Python-181825?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/XGBoost-181825?style=flat-square" alt="XGBoost" />
@@ -108,7 +108,7 @@ A deep-learning study comparing models for classifying chest X-rays as normal vs
 
 #### <a href="https://github.com/Quaden2307/cat-classifier">Cat Classifier</a>
 
-A fine-tuned ResNet-18 that spots ragdoll cats (0.81 F1), exported to ONNX and running entirely in the browser — no server, photos never leave your device.
+A fine-tuned ResNet-18 that spots ragdoll cats (0.81 F1), exported to ONNX and running entirely in the browser.
 
 <img src="https://img.shields.io/badge/Python-181825?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-181825?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
