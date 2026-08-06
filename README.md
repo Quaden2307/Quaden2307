@@ -106,15 +106,16 @@ A deep-learning study comparing models for classifying chest X-rays as normal vs
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Quaden2307/world-cup-score-prediction-model">World Cup Score Predictor</a>
+#### <a href="https://github.com/Quaden2307/cat-classifier">Cat Classifier</a>
 
-A model that predicts World Cup match scorelines from historical match data.
+A fine-tuned ResNet-18 that spots ragdoll cats (0.81 F1), exported to ONNX and running entirely in the browser — no server, photos never leave your device.
 
 <img src="https://img.shields.io/badge/Python-181825?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/scikit--learn-181825?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-181825?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/PyTorch-181825?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/ONNX-181825?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
 
-<a href="https://github.com/Quaden2307/world-cup-score-prediction-model"><img src="https://img.shields.io/badge/Code-cba6f7?style=flat-square&logo=github&logoColor=181825" alt="Code" /></a>
+<a href="https://github.com/Quaden2307/cat-classifier"><img src="https://img.shields.io/badge/Code-cba6f7?style=flat-square&logo=github&logoColor=181825" alt="Code" /></a>
+<a href="https://cat-classifier-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-a6e3a1?style=flat-square&logo=vercel&logoColor=181825" alt="Live Demo" /></a>
 
 </td>
 </tr>
