@@ -9,7 +9,7 @@
     @keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
     .a1{animation:aa 26s ease-in-out infinite alternate}
     @keyframes aa{to{transform:translate(70px,-14px)}}
-    .shoot{animation:sh 13s linear infinite;animation-delay:4s}
+    .shoot{animation:sh 13s linear infinite;animation-delay:-8s}
     @keyframes sh{0%,88%{transform:translate(0,0);opacity:0}90%{opacity:1}96%,100%{transform:translate(-300px,60px);opacity:0}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important}}
   </style>
