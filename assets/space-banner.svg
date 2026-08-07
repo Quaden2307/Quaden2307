@@ -14,9 +14,12 @@
     @keyframes aa{to{transform:translate(90px,40px)}}
     @keyframes ab{to{transform:translate(-80px,-30px)}}
     @keyframes ac{to{transform:translate(60px,-40px)}}
-    .shoot{animation:sh 11s linear infinite}
-    .late{animation-duration:17s;animation-delay:6s}
-    @keyframes sh{0%,86%{transform:translate(0,0);opacity:0}88%{opacity:1}95%,100%{transform:translate(-340px,186px);opacity:0}}
+    .shoot{animation:sh 7s linear infinite}
+    .f2{animation-duration:9s;animation-delay:2.5s}
+    .f3{animation-duration:8s;animation-delay:5.2s}
+    .f4{animation-duration:10s;animation-delay:1.4s}
+    .f5{animation-duration:6.5s;animation-delay:3.8s}
+    @keyframes sh{0%,80%{transform:translate(0,0);opacity:0}83%{opacity:1}92%,100%{transform:translate(-340px,186px);opacity:0}}
     .cur{animation:blink 1.1s steps(1) infinite}
     @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important}}
@@ -109,13 +112,31 @@
     </g>
   </g>
   <g transform="translate(560,26)">
-    <g class="shoot late">
+    <g class="shoot f2">
+      <line x1="0" y1="0" x2="110" y2="-58" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/>
+      <circle r="1.8" fill="#ededed"/>
+    </g>
+  </g>
+  <g transform="translate(1160,110)">
+    <g class="shoot f3">
+      <line x1="0" y1="0" x2="110" y2="-58" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/>
+      <circle r="1.8" fill="#ededed"/>
+    </g>
+  </g>
+  <g transform="translate(820,64)">
+    <g class="shoot f4">
+      <line x1="0" y1="0" x2="110" y2="-58" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/>
+      <circle r="1.8" fill="#ededed"/>
+    </g>
+  </g>
+  <g transform="translate(300,20)">
+    <g class="shoot f5">
       <line x1="0" y1="0" x2="110" y2="-58" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/>
       <circle r="1.8" fill="#ededed"/>
     </g>
   </g>
 
-  <!-- wordmark, same voice as the site nav -->
-  <text x="600" y="160" text-anchor="middle" font-family="'Geist Mono',ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="52" font-weight="600" letter-spacing="1" fill="#ededed">caden_sun<tspan class="cur" fill="#3b82f6">▊</tspan></text>
+  <!-- wordmark -->
+  <text x="600" y="160" text-anchor="middle" font-family="'Geist Mono',ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="52" font-weight="600" letter-spacing="1" fill="#ededed">Caden Sun<tspan class="cur" fill="#3b82f6">▊</tspan></text>
   <text x="600" y="200" text-anchor="middle" font-family="Geist,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="17" fill="#a3a3a3">Mathematics @ University of Waterloo</text>
 </svg>

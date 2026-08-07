@@ -9,6 +9,8 @@
     @keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
     .a1{animation:aa 26s ease-in-out infinite alternate}
     @keyframes aa{to{transform:translate(70px,-14px)}}
+    .shoot{animation:sh 13s linear infinite;animation-delay:4s}
+    @keyframes sh{0%,88%{transform:translate(0,0);opacity:0}90%{opacity:1}96%,100%{transform:translate(-300px,60px);opacity:0}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important}}
   </style>
 
@@ -17,6 +19,9 @@
     <circle id="s1" r=".9" fill="#ededed"/>
     <circle id="s2" r="1.4" fill="#ededed"/>
     <circle id="s3" r=".7" fill="#60a5fa"/>
+    <linearGradient id="tail" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="110" y2="-22">
+      <stop offset="0" stop-color="#ededed" stop-opacity=".9"/><stop offset="1" stop-color="#ededed" stop-opacity="0"/>
+    </linearGradient>
   </defs>
 
   <rect width="1200" height="110" fill="#0a0a0a"/>
@@ -40,6 +45,13 @@
     <use xlink:href="#s1" x="470"  y="96" class="tw d2"/>
     <use xlink:href="#s1" x="748"  y="92" class="tw d1"/>
     <use xlink:href="#s1" x="1008" y="88" class="tw d5"/>
+  </g>
+
+  <g transform="translate(1050,18)">
+    <g class="shoot">
+      <line x1="0" y1="0" x2="110" y2="-22" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/>
+      <circle r="1.6" fill="#ededed"/>
+    </g>
   </g>
 
   <text x="600" y="64" text-anchor="middle" font-family="'Geist Mono',ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#737373">// thanks for stopping by</text>

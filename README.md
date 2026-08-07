@@ -7,7 +7,7 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/space-banner.svg" width="100%" alt="caden_sun — Mathematics @ University of Waterloo" />
+<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/space-banner.svg" width="100%" alt="Caden Sun — Mathematics @ University of Waterloo" />
 
 <a href="https://github.com/Quaden2307">
   <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer;Feel+free+to+reach+out" alt="tagline" />
