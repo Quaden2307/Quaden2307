@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Compute contribution numbers
         run: |
@@ -53,5 +53,6 @@ jobs:
             echo "Contribution graphics unchanged."
           else
             git commit -m "chore: update contribution graphics [skip ci]"
+            git pull --rebase origin main
             git push
           fi
