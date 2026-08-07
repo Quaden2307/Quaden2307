@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Starfield footer">
+  <style>
+    .tw{animation:tw 3.2s ease-in-out infinite}
+    .d1{animation-delay:-.4s}
+    .d2{animation-delay:-1.1s;animation-duration:2.5s}
+    .d3{animation-delay:-1.9s;animation-duration:4.2s}
+    .d4{animation-delay:-2.6s;animation-duration:3.6s}
+    .d5{animation-delay:-3.1s;animation-duration:4.8s}
+    @keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
+    .a1{animation:aa 26s ease-in-out infinite alternate}
+    @keyframes aa{to{transform:translate(70px,-14px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <defs>
+    <radialGradient id="gblue"><stop offset="0" stop-color="#3b82f6" stop-opacity=".16"/><stop offset=".65" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+    <circle id="s1" r=".9" fill="#ededed"/>
+    <circle id="s2" r="1.4" fill="#ededed"/>
+    <circle id="s3" r=".7" fill="#60a5fa"/>
+  </defs>
+
+  <rect width="1200" height="110" fill="#0a0a0a"/>
+  <ellipse class="a1" cx="600" cy="150" rx="560" ry="120" fill="url(#gblue)"/>
+
+  <g>
+    <use xlink:href="#s1" x="56"   y="34" class="tw d1"/>
+    <use xlink:href="#s3" x="142"  y="72" class="tw d3"/>
+    <use xlink:href="#s1" x="238"  y="22" class="tw d4"/>
+    <use xlink:href="#s2" x="331"  y="58" class="tw d2"/>
+    <use xlink:href="#s1" x="424"  y="30" class="tw d5"/>
+    <use xlink:href="#s3" x="512"  y="80" class="tw d1"/>
+    <use xlink:href="#s1" x="601"  y="24" class="tw d3"/>
+    <use xlink:href="#s2" x="692"  y="66" class="tw d4"/>
+    <use xlink:href="#s1" x="781"  y="28" class="tw d2"/>
+    <use xlink:href="#s3" x="874"  y="76" class="tw d5"/>
+    <use xlink:href="#s1" x="962"  y="20" class="tw d1"/>
+    <use xlink:href="#s2" x="1051" y="54" class="tw d3"/>
+    <use xlink:href="#s1" x="1143" y="32" class="tw d4"/>
+    <use xlink:href="#s1" x="187"  y="94" class="tw d5"/>
+    <use xlink:href="#s1" x="470"  y="96" class="tw d2"/>
+    <use xlink:href="#s1" x="748"  y="92" class="tw d1"/>
+    <use xlink:href="#s1" x="1008" y="88" class="tw d5"/>
+  </g>
+
+  <text x="600" y="64" text-anchor="middle" font-family="'Geist Mono',ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#737373">// thanks for stopping by</text>
+</svg>

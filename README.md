@@ -7,22 +7,22 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=200&section=header&text=Caden%20Sun&fontSize=58&fontColor=e0f2fe&fontAlignY=38&desc=Mathematics%20%40%20University%20of%20Waterloo&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Caden Sun" />
+<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/space-banner.svg" width="100%" alt="caden_sun — Mathematics @ University of Waterloo" />
 
 <a href="https://github.com/Quaden2307">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer;Feel+free+to+reach+out" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer;Feel+free+to+reach+out" alt="tagline" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Quaden2307&label=Profile%20Visitors&color=60a5fa&style=for-the-badge" alt="Profile visitors" />
+<img src="https://komarev.com/ghpvc/?username=Quaden2307&label=Profile%20Visitors&color=3b82f6&style=for-the-badge" alt="Profile visitors" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-cadensun-60a5fa?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2BCg%3D%3D&labelColor=0b1120" alt="LinkedIn" /></a>
-<a href="mailto:cadensun07@gmail.com"><img src="https://img.shields.io/badge/Gmail-cadensun07-60a5fa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1120" alt="Email" /></a>
-<a href="https://github.com/Quaden2307"><img src="https://img.shields.io/badge/GitHub-Quaden2307-60a5fa?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1120" alt="GitHub" /></a>
-<a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-60a5fa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1120" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-cadensun-3b82f6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2BCg%3D%3D&labelColor=161616" alt="LinkedIn" /></a>
+<a href="mailto:cadensun07@gmail.com"><img src="https://img.shields.io/badge/Gmail-cadensun07-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161616" alt="Email" /></a>
+<a href="https://github.com/Quaden2307"><img src="https://img.shields.io/badge/GitHub-Quaden2307-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=161616" alt="GitHub" /></a>
+<a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-3b82f6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161616" alt="Portfolio" /></a>
 
 </div>
 
@@ -56,12 +56,12 @@ I'm Caden, a Mathematics student at the University of Waterloo who loves turning
 
 End-to-end flight-price prediction across 200+ routes and 55+ airports. A SQLite pipeline ingests ~4k offers/day (400K+ rows) to train an XGBoost model targeting sub-10% error.
 
-<img src="https://img.shields.io/badge/Python-0b1120?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/XGBoost-0b1120?style=flat-square" alt="XGBoost" />
-<img src="https://img.shields.io/badge/Pandas-0b1120?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/SQLite-0b1120?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/XGBoost-161616?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/Pandas-161616?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/SQLite-161616?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 
-<a href="https://github.com/Quaden2307/flight-price-predictor"><img src="https://img.shields.io/badge/Code-60a5fa?style=flat-square&logo=github&logoColor=0b1120" alt="Code" /></a>
+<a href="https://github.com/Quaden2307/flight-price-predictor"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -70,13 +70,13 @@ End-to-end flight-price prediction across 200+ routes and 55+ airports. A SQLite
 
 A full-stack chess AI: a PyTorch evaluator (768 to 256 to 128 to 1) served via a Flask API and React/TypeScript frontend, Dockerized and deployed on Vercel with sub-second moves.
 
-<img src="https://img.shields.io/badge/PyTorch-0b1120?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Flask-0b1120?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/React-0b1120?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Docker-0b1120?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Flask-161616?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
-<a href="https://github.com/Quaden2307/chess-engine"><img src="https://img.shields.io/badge/Code-60a5fa?style=flat-square&logo=github&logoColor=0b1120" alt="Code" /></a>
-<a href="https://chess-bot-deployment.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=0b1120" alt="Live Demo" /></a>
+<a href="https://github.com/Quaden2307/chess-engine"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
+<a href="https://chess-bot-deployment.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
 
 </td>
 </tr>
@@ -87,10 +87,10 @@ A full-stack chess AI: a PyTorch evaluator (768 to 256 to 128 to 1) served via a
 
 A deep-learning study comparing models for classifying chest X-rays as normal vs. abnormal.
 
-<img src="https://img.shields.io/badge/Python-0b1120?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-0b1120?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 
-<a href="https://github.com/Quaden2307/Evaluating-Deep-Learning-Models-for-Normal-vs-Abnormal-Chest-X-Ray-Classification"><img src="https://img.shields.io/badge/Code-60a5fa?style=flat-square&logo=github&logoColor=0b1120" alt="Code" /></a>
+<a href="https://github.com/Quaden2307/Evaluating-Deep-Learning-Models-for-Normal-vs-Abnormal-Chest-X-Ray-Classification"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -99,12 +99,12 @@ A deep-learning study comparing models for classifying chest X-rays as normal vs
 
 A fine-tuned ResNet-18 that spots ragdoll cats (0.81 F1), exported to ONNX and running entirely in the browser.
 
-<img src="https://img.shields.io/badge/Python-0b1120?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-0b1120?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/ONNX-0b1120?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
+<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/ONNX-161616?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
 
-<a href="https://github.com/Quaden2307/cat-classifier"><img src="https://img.shields.io/badge/Code-60a5fa?style=flat-square&logo=github&logoColor=0b1120" alt="Code" /></a>
-<a href="https://cat-classifier-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=0b1120" alt="Live Demo" /></a>
+<a href="https://github.com/Quaden2307/cat-classifier"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
+<a href="https://cat-classifier-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
 
 </td>
 </tr>
@@ -115,11 +115,11 @@ A fine-tuned ResNet-18 that spots ragdoll cats (0.81 F1), exported to ONNX and r
 
 A Python package for reranking search results with LLMs (pointwise, pairwise, and listwise rerankers) — one of [Professor Jimmy Lin's](https://cs.uwaterloo.ca/~jimmylin/) group repositories, which I work with as part of his research group.
 
-<img src="https://img.shields.io/badge/Python-0b1120?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/LLMs-0b1120?style=flat-square" alt="LLMs" />
-<img src="https://img.shields.io/badge/Information_Retrieval-0b1120?style=flat-square" alt="Information Retrieval" />
+<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/LLMs-161616?style=flat-square" alt="LLMs" />
+<img src="https://img.shields.io/badge/Information_Retrieval-161616?style=flat-square" alt="Information Retrieval" />
 
-<a href="https://github.com/castorini/rank_llm"><img src="https://img.shields.io/badge/Repository-60a5fa?style=flat-square&logo=github&logoColor=0b1120" alt="Repository" /></a>
+<a href="https://github.com/castorini/rank_llm"><img src="https://img.shields.io/badge/Repository-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Repository" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -128,13 +128,13 @@ A Python package for reranking search results with LLMs (pointwise, pairwise, an
 
 My personal portfolio — a responsive Next.js / React / TypeScript site styled with Tailwind CSS and deployed on Vercel.
 
-<img src="https://img.shields.io/badge/Next.js-0b1120?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-0b1120?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-0b1120?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind-0b1120?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Next.js-161616?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-161616?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
-<a href="https://github.com/Quaden2307/personal-website"><img src="https://img.shields.io/badge/Code-60a5fa?style=flat-square&logo=github&logoColor=0b1120" alt="Code" /></a>
-<a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=0b1120" alt="Live Demo" /></a>
+<a href="https://github.com/Quaden2307/personal-website"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
+<a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
 
 </td>
 </tr>
@@ -186,8 +186,8 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Quaden2307&show_icons=true&count_private=true&hide=commits&hide_rank=true&hide_border=true&custom_title=Caden's%20GitHub%20Stats&title_color=60a5fa&icon_color=38bdf8&text_color=dbeafe&bg_color=0f172a" alt="GitHub stats" />
-<img height="175em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Quaden2307&layout=compact&langs_count=8&hide_border=true&title_color=60a5fa&text_color=dbeafe&bg_color=0f172a" alt="Top languages" />
+<img height="175em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Quaden2307&show_icons=true&count_private=true&hide=commits&hide_rank=true&hide_border=true&custom_title=Caden's%20GitHub%20Stats&title_color=60a5fa&icon_color=3b82f6&text_color=ededed&bg_color=0a0a0a" alt="GitHub stats" />
+<img height="175em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Quaden2307&layout=compact&langs_count=8&hide_border=true&title_color=60a5fa&text_color=ededed&bg_color=0a0a0a" alt="Top languages" />
 
 <br/>
 
@@ -196,7 +196,7 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Quaden2307&bg_color=0f172a&color=60a5fa&line=38bdf8&point=93c5fd&area_color=60a5fa&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Quaden2307&bg_color=0a0a0a&color=60a5fa&line=3b82f6&point=60a5fa&area_color=60a5fa&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
 
 </div>
 
@@ -214,12 +214,12 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 
 ### Let's Connect
 
-<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-60a5fa?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2BCg%3D%3D&labelColor=0b1120" alt="LinkedIn" /></a>
-<a href="mailto:cadensun07@gmail.com"><img src="https://img.shields.io/badge/Email-60a5fa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1120" alt="Email" /></a>
-<a href="https://github.com/Quaden2307"><img src="https://img.shields.io/badge/GitHub-60a5fa?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1120" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2BCg%3D%3D&labelColor=161616" alt="LinkedIn" /></a>
+<a href="mailto:cadensun07@gmail.com"><img src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161616" alt="Email" /></a>
+<a href="https://github.com/Quaden2307"><img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=161616" alt="GitHub" /></a>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/space-footer.svg" width="100%" alt="footer" />
 
 </div>
