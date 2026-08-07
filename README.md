@@ -66,6 +66,37 @@ End-to-end flight-price prediction across 200+ routes and 55+ airports. A SQLite
 </td>
 <td width="50%" valign="top">
 
+#### <a href="https://github.com/Quaden2307/cat-classifier">Cat Classifier</a>
+
+A fine-tuned ResNet-18 that spots ragdoll cats (0.81 F1), exported to ONNX and running entirely in the browser.
+
+<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/ONNX-161616?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
+
+<a href="https://github.com/Quaden2307/cat-classifier"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
+<a href="https://cat-classifier-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/Quaden2307/personal-website">Personal Website</a>
+
+My personal portfolio — a responsive Next.js / React / TypeScript site styled with Tailwind CSS and deployed on Vercel.
+
+<img src="https://img.shields.io/badge/Next.js-161616?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-161616?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+<a href="https://github.com/Quaden2307/personal-website"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
+<a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
+
+</td>
+<td width="50%" valign="top">
+
 #### <a href="https://github.com/Quaden2307/chess-engine">AI Chess Bot</a>
 
 A full-stack chess AI: a PyTorch evaluator (768 to 256 to 128 to 1) served via a Flask API and React/TypeScript frontend, Dockerized and deployed on Vercel with sub-second moves.
@@ -77,34 +108,6 @@ A full-stack chess AI: a PyTorch evaluator (768 to 256 to 128 to 1) served via a
 
 <a href="https://github.com/Quaden2307/chess-engine"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
 <a href="https://chess-bot-deployment.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/Quaden2307/Evaluating-Deep-Learning-Models-for-Normal-vs-Abnormal-Chest-X-Ray-Classification">Chest X-Ray Classifier</a>
-
-A deep-learning study comparing models for classifying chest X-rays as normal vs. abnormal.
-
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-
-<a href="https://github.com/Quaden2307/Evaluating-Deep-Learning-Models-for-Normal-vs-Abnormal-Chest-X-Ray-Classification"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/Quaden2307/cat-classifier">Cat Classifier</a>
-
-A fine-tuned ResNet-18 that spots ragdoll cats (0.81 F1), exported to ONNX and running entirely in the browser.
-
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/ONNX-161616?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
-
-<a href="https://github.com/Quaden2307/cat-classifier"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
-<a href="https://cat-classifier-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
 
 </td>
 </tr>
@@ -124,17 +127,14 @@ A Python package for reranking search results with LLMs (pointwise, pairwise, an
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Quaden2307/personal-website">Personal Website</a>
+#### <a href="https://github.com/Quaden2307/Evaluating-Deep-Learning-Models-for-Normal-vs-Abnormal-Chest-X-Ray-Classification">Chest X-Ray Classifier</a>
 
-My personal portfolio — a responsive Next.js / React / TypeScript site styled with Tailwind CSS and deployed on Vercel.
+A deep-learning study comparing models for classifying chest X-rays as normal vs. abnormal.
 
-<img src="https://img.shields.io/badge/Next.js-161616?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind-161616?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 
-<a href="https://github.com/Quaden2307/personal-website"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
-<a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
+<a href="https://github.com/Quaden2307/Evaluating-Deep-Learning-Models-for-Normal-vs-Abnormal-Chest-X-Ray-Classification"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
 
 </td>
 </tr>
@@ -220,6 +220,6 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/space-footer.svg?v=3" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/space-footer.svg?v=4" width="100%" alt="footer" />
 
 </div>
