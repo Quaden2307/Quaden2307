@@ -196,7 +196,7 @@ My personal portfolio — a responsive Next.js / React / TypeScript site styled 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Quaden2307&bg_color=0a0a0a&color=60a5fa&line=3b82f6&point=60a5fa&area_color=60a5fa&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
+<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/contributions-calendar.svg" width="100%" alt="Contribution calendar" />
 
 </div>
 
