@@ -30,15 +30,15 @@
 
 ## About Me
 
-I'm Caden, a Mathematics student at the University of Waterloo who loves turning messy data into things that actually work. Right now I'm building AI calling agents at ProCogia, forecasting market volatility with graph neural nets at Wat Street, and chasing a sub-10% error on my flight-price predictor. I'm also a member of [Jimmy Lin's](https://cs.uwaterloo.ca/~jimmylin/) research group at Waterloo, where I work on information retrieval.
+I'm Caden, a Mathematics student at the University of Waterloo working in the fields of Machine Learning, AI Engineering, and the software that holds them together. Right now I'm helping deploy AI systems in production at ProCogia and helping professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) with retrieval (RAG) research. You can find my projects in this repo. My favorite ones are under the Featured Projects section.
 
 <details>
   <summary><b>What I'm currently working on</b> (click to expand)</summary>
 
 <br/>
 
-- **[Jimmy Lin's Research Group](https://cs.uwaterloo.ca/~jimmylin/) @ Waterloo** - information-retrieval research with the Anserini / Pyserini toolkits.
 - **AI Intern @ ProCogia** - built a LangGraph-orchestrated calling-agent POC (~500 ms faster, a 3x gain over Amazon Connect) plus a RAG pipeline on AWS S3.
+- **[Jimmy Lin's Research Group](https://cs.uwaterloo.ca/~jimmylin/) @ Waterloo** - information-retrieval research with the Anserini / Pyserini toolkits.
 - **ML Engineer @ Wat Street** (Waterloo's Quantitative Finance team) - wiring a Graph Attention Network into an LSTM in PyTorch to forecast volatility for 500 S&P stocks.
 - **Software Developer @ WARG** (past) - shipped client-side mission-export tooling for the IMACS-3.0 ground control station (React + QGC `.waypoints`).
 
