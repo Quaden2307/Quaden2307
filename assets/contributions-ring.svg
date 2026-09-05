@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="470" height="185" viewBox="0 0 470 185" role="img" aria-label="GitHub contributions: 454 total, 50 in the last 30 days">
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="185" viewBox="0 0 470 185" role="img" aria-label="GitHub contributions: 455 total, 37 in the last 30 days">
   <rect x="0.5" y="0.5" width="469" height="184" rx="14" fill="#0a0a0a" stroke="#262626"/>
   <line x1="290" y1="30" x2="290" y2="155" stroke="#262626" stroke-width="1"/>
 
   <!-- left: total contributions inside the big ring -->
   <circle cx="145" cy="72" r="50" fill="none" stroke="#3b82f6" stroke-width="6"/>
-  <text x="145" y="84" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#ededed">454</text>
+  <text x="145" y="84" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#ededed">455</text>
   <text x="145" y="150" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="600" fill="#60a5fa">Total Contributions</text>
   <text x="145" y="167" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#737373">All time</text>
 
   <!-- right: contributions in the last 30 days -->
-  <text x="380" y="84" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="40" font-weight="700" fill="#ededed">50</text>
+  <text x="380" y="84" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="40" font-weight="700" fill="#ededed">37</text>
   <text x="380" y="150" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="600" fill="#60a5fa">Last 30 Days</text>
   <text x="380" y="167" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#737373">contributions</text>
 </svg>
