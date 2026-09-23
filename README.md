@@ -127,14 +127,17 @@ A Python package for reranking search results with LLMs (pointwise, pairwise, an
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Quaden2307/Evaluating-Deep-Learning-Models-for-Normal-vs-Abnormal-Chest-X-Ray-Classification">Chest X-Ray Classifier</a>
+#### <a href="https://github.com/aikhanjum/scout">Scout</a>
 
-A deep-learning study comparing models for classifying chest X-rays as normal vs. abnormal.
+A lidar rover built in 32 hours at Hack the North 2026 that drives through a building and measures whether a wheelchair fits through each doorway (2 mm accuracy vs. tape). Raspberry Pi 4 + RPLIDAR A2M8 + AVR motor firmware, streaming 3,600 beams/s over WebSockets into TimescaleDB with a React operator console.
 
 <img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-161616?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/C++-161616?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TimescaleDB-161616?style=flat-square&logo=timescale&logoColor=white" alt="TimescaleDB" />
 
-<a href="https://github.com/Quaden2307/Evaluating-Deep-Learning-Models-for-Normal-vs-Abnormal-Chest-X-Ray-Classification"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
+<a href="https://github.com/aikhanjum/scout"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
 
 </td>
 </tr>
