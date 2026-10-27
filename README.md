@@ -8,7 +8,7 @@
   <img alt="Contribution graph for the last year" src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/contributions-light.svg" width="100%">
 </picture>
 
-I'm a math student at the University of Waterloo, class of 2029. I'm into Software Engineering, Machine Learning, and AI. My past experience includes interning as an AI Engineer at **[ProCogia](https://procogia.com)**, and in Winter 2027 I'm joining **[Bits in Glass](https://bitsinglass.ai)** as a Machine Learning Engineer Intern.
+Hi! I'm a Mathematics student at the University of Waterloo, class of 2029. I'm into Software Engineering, Machine Learning, and AI, and always looking for opportunities to build something great. My past experience includes interning as an AI Engineer at **[ProCogia](https://procogia.com)**, and in Winter 2027 I'm joining **[Bits in Glass](https://bitsinglass.ai)** as a Machine Learning Engineer Intern. In my free time I like to play the piano, hoops + eats, and going on walks. 
 
 ### Contact
 
