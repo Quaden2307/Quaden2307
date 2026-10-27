@@ -1,228 +1,34 @@
-<!--
-  This is Caden Sun's GitHub PROFILE README.
-  It must live in a repo named exactly  Quaden2307/Quaden2307  (same as your
-  username), with this file at the root as README.md. See SETUP.md for setup.
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/name-dark.svg">
+  <img alt="Caden Sun" src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/name-light.svg" width="464">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/contributions-dark.svg">
+  <img alt="Contribution graph for the last year" src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/contributions-light.svg" width="100%">
+</picture>
 
-<!-- ===================== BANNER ===================== -->
-<div align="center">
+I'm a math student at the University of Waterloo, class of 2029. I'm into Software Engineering, Machine Learning, and AI. My past experience includes interning as an AI Engineer at **[ProCogia](https://procogia.com)**, and in Winter 2027 I'm joining **[Bits in Glass](https://bitsinglass.ai)** as a Machine Learning Engineer Intern.
 
-<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/space-banner.svg?v=3" width="100%" alt="Caden Sun — Mathematics @ University of Waterloo" />
+### Contact
 
-<a href="https://github.com/Quaden2307">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer;Feel+free+to+reach+out" alt="tagline" />
-</a>
+Email is the best way to reach me: [c262sun@uwaterloo.ca](mailto:c262sun@uwaterloo.ca). I'm also on [LinkedIn](https://www.linkedin.com/in/cadensun), and there's more on [my website](https://personal-website-rose-delta-47.vercel.app).
 
-<br/>
+### Projects
 
-<img src="https://komarev.com/ghpvc/?username=Quaden2307&label=Profile%20Visitors&color=3b82f6&style=for-the-badge" alt="Profile visitors" />
+**[Flight Price Predictor](https://github.com/Quaden2307/flight-price-predictor)** estimates what a flight should cost. A daily pipeline has collected over 400,000 fares since&nbsp;May&nbsp;2026, now across the 300 routes below, and the XGBoost model averages 14.6% error on flights held out from training, against 17.1% for a linear baseline.<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/routes-dark.svg"><img alt="Map of the 300 routes between 81 airports that the flight price pipeline collects fares on every day" src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/routes-light.svg" width="100%"></picture>
 
-<br/><br/>
+**[Cat Classifier](https://github.com/Quaden2307/cat-classifier)** decides whether your cat is a ragdoll. It's a ResNet-18 convolutional network fine-tuned on a 1,722-photo dataset and run in your browser through ONNX, so the photo never leaves your device. Answering "not ragdoll" every time would already be 77% accurate, so it trains with a class-weighted loss and is judged on F1, where it scores 0.83 and catches 52 of the 60 ragdolls in the test set. [Try it](https://cat-classifier-five.vercel.app).<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/cat-conv-dark.svg"><img alt="A pixel cat with a 3 by 3 window over the edge of its ear, that window enlarged, and the edge map a convolution produces" src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/cat-conv-light.svg" width="100%"></picture>
 
-<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-cadensun-3b82f6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2BCg%3D%3D&labelColor=161616" alt="LinkedIn" /></a>
-<a href="mailto:cadensun07@gmail.com"><img src="https://img.shields.io/badge/Gmail-cadensun07-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161616" alt="Email" /></a>
-<a href="https://github.com/Quaden2307"><img src="https://img.shields.io/badge/GitHub-Quaden2307-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=161616" alt="GitHub" /></a>
-<a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-3b82f6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161616" alt="Portfolio" /></a>
+**[Chess Engine](https://github.com/Quaden2307/chess-engine)** searches with negamax, alpha-beta pruning and iterative deepening, plus quiescence search, a Zobrist-keyed transposition table, killer and history move ordering, and a tapered evaluation. It plays through a Flask API on Vercel and a React board with a live evaluation bar and candidate-move arrows. In the position below White is a queen down, and the engine finds Légal's Mate: 6.Bxf7+ Ke7 7.Nd5#. [Play against it](https://chess-bot-deployment.vercel.app).<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/chess-legal-dark.svg"><img alt="Chess position with White a queen down; an arrow shows the engine's move Bxf7+, which mates in two" src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/chess-legal-light.svg" width="320"></picture>
 
-</div>
+**[Scout](https://github.com/aikhanjum/scout)** is a lidar rover my team built in 32 hours at Hack the North 2026. It checks the gaps along its path against the 860&nbsp;mm a wheelchair needs, and its lidar read one doorway at 878&nbsp;mm against an 880&nbsp;mm reference. I built the operator console's map view, made the simulator drivable, and added run controls, downloads and reports.
 
-<!-- ===================== ABOUT ===================== -->
+### Tools
 
-## About Me
-
-I'm Caden, a Mathematics student at the University of Waterloo working in the fields of Machine Learning, AI Engineering, and the software that holds them together. Right now I'm helping deploy AI systems in production at ProCogia and helping professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) with retrieval (RAG) research. You can find my projects in this repo. My favorite ones are under the Featured Projects section.
-
-<details>
-  <summary><b>What I'm currently working on</b> (click to expand)</summary>
-
-<br/>
-
-- **AI Intern @ ProCogia** - built a LangGraph-orchestrated calling-agent POC (~500 ms faster, a 3x gain over Amazon Connect) plus a RAG pipeline on AWS S3.
-- **[Jimmy Lin's Research Group](https://cs.uwaterloo.ca/~jimmylin/) @ Waterloo** - information-retrieval research with the Anserini / Pyserini toolkits.
-- **ML Engineer @ Wat Street** (Waterloo's Quantitative Finance team) - wiring a Graph Attention Network into an LSTM in PyTorch to forecast volatility for 500 S&P stocks.
-- **Software Developer @ WARG** (past) - shipped client-side mission-export tooling for the IMACS-3.0 ground control station (React + QGC `.waypoints`).
-
-</details>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/Quaden2307/flight-price-predictor">Flight Price Predictor</a>
-
-End-to-end flight-price prediction across 200+ routes and 55+ airports. A SQLite pipeline ingests ~4k offers/day (400K+ rows) to train an XGBoost model targeting sub-10% error.
-
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/XGBoost-161616?style=flat-square" alt="XGBoost" />
-<img src="https://img.shields.io/badge/Pandas-161616?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/SQLite-161616?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-
-<a href="https://github.com/Quaden2307/flight-price-predictor"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/Quaden2307/cat-classifier">Cat Classifier</a>
-
-A fine-tuned ResNet-18 that spots ragdoll cats (0.81 F1), exported to ONNX and running entirely in the browser.
-
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/ONNX-161616?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
-
-<a href="https://github.com/Quaden2307/cat-classifier"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
-<a href="https://cat-classifier-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/Quaden2307/personal-website">Personal Website</a>
-
-My personal portfolio — a responsive Next.js / React / TypeScript site styled with Tailwind CSS and deployed on Vercel.
-
-<img src="https://img.shields.io/badge/Next.js-161616?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind-161616?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
-<a href="https://github.com/Quaden2307/personal-website"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
-<a href="https://personal-website-rose-delta-47.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/Quaden2307/chess-engine">AI Chess Bot</a>
-
-A full-stack chess AI: a PyTorch evaluator (768 to 256 to 128 to 1) served via a Flask API and React/TypeScript frontend, Dockerized and deployed on Vercel with sub-second moves.
-
-<img src="https://img.shields.io/badge/PyTorch-161616?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Flask-161616?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-
-<a href="https://github.com/Quaden2307/chess-engine"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
-<a href="https://chess-bot-deployment.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22d3ee?style=flat-square&logo=vercel&logoColor=161616" alt="Live Demo" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/castorini/rank_llm">RankLLM</a>
-
-A Python package for reranking search results with LLMs (pointwise, pairwise, and listwise rerankers) — one of [Professor Jimmy Lin's](https://cs.uwaterloo.ca/~jimmylin/) group repositories, which I work with as part of his research group.
-
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/LLMs-161616?style=flat-square" alt="LLMs" />
-<img src="https://img.shields.io/badge/Information_Retrieval-161616?style=flat-square" alt="Information Retrieval" />
-
-<a href="https://github.com/castorini/rank_llm"><img src="https://img.shields.io/badge/Repository-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Repository" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/aikhanjum/scout">Scout</a>
-
-A lidar rover built in 32 hours at Hack the North 2026 that drives through a building and measures whether a wheelchair fits through each doorway (2 mm accuracy vs. tape). Raspberry Pi 4 + RPLIDAR A2M8 + AVR motor firmware, streaming 3,600 beams/s over WebSockets into TimescaleDB with a React operator console.
-
-<img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-161616?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-<img src="https://img.shields.io/badge/C++-161616?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/TimescaleDB-161616?style=flat-square&logo=timescale&logoColor=white" alt="TimescaleDB" />
-
-<a href="https://github.com/aikhanjum/scout"><img src="https://img.shields.io/badge/Code-3b82f6?style=flat-square&logo=github&logoColor=161616" alt="Code" /></a>
-
-</td>
-</tr>
-</table>
-
-<!-- ===================== TECH STACK ===================== -->
-
-## Tech Stack
-
-<!-- Tech logos: click any to open its official docs. ~44px, matched heights. -->
-**Languages**  
-<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" height="44" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="44" /></a>
-<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" height="44" /></a>
-<a href="https://docs.oracle.com/en/java/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" height="44" /></a>
-<a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" height="44" /></a>
-<a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" height="44" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="44" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="44" /></a>
-<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/tech-sql.svg?v=2" alt="SQL" title="SQL" height="44" />
-
-**Machine Learning & Data**  
-<a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" height="44" /></a>
-<a href="https://scikit-learn.org" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" height="44" /></a>
-<a href="https://pandas.pydata.org" title="pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="125" /></a>
-<a href="https://numpy.org" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" width="116" /></a>
-<a href="https://matplotlib.org" title="Matplotlib"><img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/matplotlib-badge.svg?v=1" alt="Matplotlib" height="36" /></a>
-<a href="https://xgboost.readthedocs.io" title="XGBoost"><img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOSI%2BPGxpbmUgeDE9IjEyIiB5MT0iNiIgeDI9IjYiIHkyPSIxNSIvPjxsaW5lIHgxPSIxMiIgeTE9IjYiIHgyPSIxOCIgeTI9IjE1Ii8%2BPC9nPjxnIGZpbGw9IiNmZmYiPjxjaXJjbGUgY3g9IjEyIiBjeT0iNSIgcj0iMyIvPjxjaXJjbGUgY3g9IjYiIGN5PSIxNiIgcj0iMyIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iMTYiIHI9IjMiLz48L2c%2BPC9zdmc%2BCg%3D%3D&logoColor=white" alt="XGBoost" width="137" /></a>
-
-**Frameworks & Backend**  
-<a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" height="44" /></a>
-<a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="44" /></a>
-<a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="44" /></a>
-<a href="https://langchain-ai.github.io/langgraph/" title="LangGraph"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" alt="LangGraph" height="44" /></a>
-
-**Tools & Platforms**  
-<a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="44" /></a>
-<a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" height="44" /></a>
-<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" height="44" /></a>
-<a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" height="44" /></a>
-<a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" height="44" /></a>
-<a href="https://www.sqlite.org" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" height="44" /></a>
-<a href="https://jupyter.org" title="Jupyter"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" alt="Jupyter" height="44" /></a>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark" alt="CI/CD (GitHub Actions)" title="CI/CD" height="44" />
-
-<!-- ===================== STATS ===================== -->
-
-## GitHub by the Numbers
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Quaden2307&show_icons=true&count_private=true&hide=commits&hide_rank=true&hide_border=true&custom_title=Caden's%20GitHub%20Stats&title_color=60a5fa&icon_color=3b82f6&text_color=ededed&bg_color=0a0a0a" alt="GitHub stats" />
-<img height="175em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Quaden2307&layout=compact&langs_count=8&hide_border=true&title_color=60a5fa&text_color=ededed&bg_color=0a0a0a" alt="Top languages" />
-
-<br/>
-
-<!-- Contribution ring auto-refreshes daily via .github/workflows/contributions.yml -->
-<img alt="GitHub contributions — total all-time and last 30 days" src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/contributions-ring.svg?v=2" width="470" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/contributions-calendar.svg" width="100%" alt="Contribution calendar" />
-
-</div>
-
-<!--
-  OPTIONAL: Contribution snake.
-  Enable the snake GitHub Action (see SETUP.md) and run it once, then
-  un-comment the single line below (remove the wrapping comment markers)
-  so the snake renders:
-  <div align="center"><img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/output/github-snake-dark.svg" width="100%" alt="Contribution snake" /></div>
--->
-
-<!-- ===================== CONNECT ===================== -->
-
-<div align="center">
-
-### Let's Connect
-
-<a href="https://www.linkedin.com/in/cadensun"><img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2BCg%3D%3D&labelColor=161616" alt="LinkedIn" /></a>
-<a href="mailto:cadensun07@gmail.com"><img src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161616" alt="Email" /></a>
-<a href="https://github.com/Quaden2307"><img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=161616" alt="GitHub" /></a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Quaden2307/Quaden2307/main/assets/space-footer.svg?v=4" width="100%" alt="footer" />
-
-</div>
+**Languages:** Python, C++, C, TypeScript, JavaScript, SQL, Java\
+**Machine learning:** PyTorch, scikit-learn, XGBoost, pandas, NumPy, LangGraph, ONNX\
+**Web and cloud:** Flask, React, Node.js, AWS, PostgreSQL with pgvector, SQLite, Docker, Linux, Vercel

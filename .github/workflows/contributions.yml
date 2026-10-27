@@ -1,58 +1,40 @@
-name: Update Contribution Stats
+name: Update contribution graph
 
-# Recomputes "Total Contributions" (all time) and "Contributions in the last
-# 30 days" from the public contributions calendar, then renders them into the
-# ring graphic at assets/contributions-ring.svg (which the README displays).
+# Redraws assets/contributions-*.svg (the graph under the name in the README)
+# from the last year of public contribution data, once a day.
 on:
   schedule:
-    - cron: "0 6 * * *"   # daily at 06:00 UTC
+    - cron: "0 6 * * *" # daily at 06:00 UTC
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-stats:
+  update:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v5
 
-      - name: Compute contribution numbers
+      - name: Render the contribution graph
         run: |
-          USER=Quaden2307
-          API="https://github-contributions-api.jogruber.de/v4/$USER"
-          ALL=$(curl -fsS "$API" | jq '[.total[]] | add') || ALL=""
-          L30=$(curl -fsS "$API?y=last" | jq '[.contributions[-30:][].count] | add') || L30=""
-          echo "Computed ALL='$ALL'  L30='$L30'"
-          if [[ "$ALL" =~ ^[0-9]+$ && "$L30" =~ ^[0-9]+$ ]]; then
-            echo "ALL=$ALL" >> "$GITHUB_ENV"
-            echo "L30=$L30" >> "$GITHUB_ENV"
+          if curl -fsS "https://github-contributions-api.jogruber.de/v4/${{ github.repository_owner }}?y=last" \
+              -o "$RUNNER_TEMP/contributions.json"; then
+            python3 scripts/contributions.py "$RUNNER_TEMP/contributions.json" assets
           else
-            echo "API returned no valid data; leaving the ring unchanged."
+            echo "Contribution data unavailable; keeping the current graph."
           fi
 
-      - name: Render contribution ring
-        if: env.ALL != ''
-        run: |
-          sed -e "s/__ALL__/${ALL}/g" -e "s/__L30__/${L30}/g" \
-            assets/contributions-ring.template.svg > assets/contributions-ring.svg
-
-      - name: Render contribution calendar
-        run: |
-          curl -fsS "https://github-contributions-api.jogruber.de/v4/Quaden2307?y=last" > "$RUNNER_TEMP/contrib.json" \
-            && python3 scripts/render_contribution_calendar.py "$RUNNER_TEMP/contrib.json" assets/contributions-calendar.svg \
-            || echo "Calendar API returned no valid data; leaving the calendar unchanged."
-
-      - name: Commit & push if changed
+      - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contributions-ring.svg assets/contributions-calendar.svg
+          git add assets/contributions-light.svg assets/contributions-dark.svg
           if git diff --cached --quiet; then
-            echo "Contribution graphics unchanged."
+            echo "Contribution graph unchanged."
           else
-            git commit -m "chore: update contribution graphics [skip ci]"
+            git commit -m "chore: update contribution graph [skip ci]"
             git pull --rebase origin main
             git push
           fi
