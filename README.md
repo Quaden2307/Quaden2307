@@ -12,7 +12,7 @@ Hi! I'm a Mathematics student at the University of Waterloo, class of 2030. I'm 
 
 ### Contact
 
-Email is the best way to reach me: [c262sun@uwaterloo.ca](mailto:c262sun@uwaterloo.ca). I'm also on [LinkedIn](https://www.linkedin.com/in/cadensun), and there's more on [my website](https://personal-website-rose-delta-47.vercel.app).
+Email is the best way to reach me: [c262sun@uwaterloo.ca](mailto:c262sun@uwaterloo.ca). I'm also on [LinkedIn](https://www.linkedin.com/in/cadensun), and there's more on [my website, cadensun.com](https://cadensun.com).
 
 ### Projects
 
